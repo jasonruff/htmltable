@@ -1,0 +1,40 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    font-size: 44px;
+    color: firebrick;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: crimson;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-weight: bold;
+    background-color: lightgray;
+    width:650px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.tableheads{
+    font-weight: bold;
+    background-color:grey;
+
+}
+
+
+th, td{
+    border: 1px solid black;
+
+}
